@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+dataset/pretrain_t2t_mini.jsonl
+uv.lock
