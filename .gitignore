@@ -11,3 +11,5 @@ wheels/
 
 dataset/pretrain_t2t_mini.jsonl
 uv.lock
+dataset/*.jsonl
+
